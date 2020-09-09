@@ -30,3 +30,41 @@ table{
     color: white;
     background-color: var(--primary-blue);
   }
+
+  html{
+		background-image: url("img/img.jpg");
+	}
+
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .hzlogo {
+    border-color: rgb(141, 166, 176);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .hzlogo {
+    width: 100px;
+  }
+
+  .silver-background {
+    background-color: silver;
+  }
+
+  table, th, td {
+	  border: 1px solid white; 
+	  border-collapse: collapse; 
+
+  }
