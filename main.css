@@ -35,17 +35,11 @@ table{
 		background-image: url("img/img.jpg");
 	}
 
-  .red-text {
-    color: red;
-  }
-
 #header a {
  color: white;
 }
 
-  h2 {
-    font-family: Lobster, monospace;
-  }
+
 
   p {
     font-size: 16px;
