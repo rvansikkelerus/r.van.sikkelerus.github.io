@@ -1,4 +1,4 @@
-*{color: blue}
+
 table{
     color: white;
 }
@@ -39,6 +39,10 @@ table{
     color: red;
   }
 
+#header a {
+ color: white;
+}
+
   h2 {
     font-family: Lobster, monospace;
   }
@@ -60,7 +64,18 @@ table{
   }
 
   .silver-background {
-    background-color: silver;
+    background-color: grey;
+    Width: 50%; 
+    color: wheat;
+    float:left;
+  }
+
+  .silver-background > p {
+    color : white;
+  }
+
+  .image{
+    float:right;
   }
 
   table, th, td {
@@ -68,3 +83,7 @@ table{
 	  border-collapse: collapse; 
 
   }
+  .headertekst {
+    text-align: center;
+ }
+ 
