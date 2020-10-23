@@ -81,4 +81,28 @@ table{
     text-align: center;
  }
  
- 
+ html{
+  background-image: url("img/img.jpg");
+}
+
+h1 {
+  text-align: center;
+  color:black
+}
+
+h2 { 
+  text-align: center;
+  color:wheat
+}
+label {
+color: white
+}
+div.scroll {
+background-color: wheat;
+width: 1750px;
+height: 350px;
+overflow-x: hidden;
+overflow-y: auto;
+text-align: left;
+padding: 10px;
+}
